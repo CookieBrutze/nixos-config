@@ -18,9 +18,6 @@
     gnome.gnome-tweaks
   ];
 
-  # Optionally, enable GNOME Keyring for secure password storage
-  security.pam.services.gnome-keyring.enable = true;
-
   # Optionally, enable Flatpak support
   services.flatpak.enable = true;
 
