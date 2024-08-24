@@ -10,5 +10,5 @@
         # Packages regarding steam.
         protonup
         mangohud
-    ]
+    ];
 }

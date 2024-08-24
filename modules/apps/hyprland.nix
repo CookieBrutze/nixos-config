@@ -10,5 +10,5 @@
 
     environment.systemPackages = with pkgs; [
         # Packages regarding Hyprland
-    ]
+    ];
 }

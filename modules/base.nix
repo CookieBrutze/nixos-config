@@ -59,5 +59,5 @@
         vim
         wget
         home-manager
-    ]
+    ];
 }
