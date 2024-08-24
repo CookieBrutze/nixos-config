@@ -60,4 +60,8 @@
         wget
         home-manager
     ];
+
+
+    # State Version
+    system.stateVersion = "24.05";
 }
