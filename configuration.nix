@@ -12,5 +12,6 @@
         ./modules/apps/hyprland.nix
         ./modules/apps/shell.nix
         ./modules/apps/steam.nix
+        ./modules/apps/gnome.nix
     ];
 }
