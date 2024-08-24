@@ -1,12 +1,7 @@
 { config, pkgs, ... }:
 
 {
-    programs.hyprland = {
-    enable = true;
-    extraOptions = ''
-      exec = "kitty";
-    '';
-    };
+    programs.hyprland.enable = true;
 
     environment.systemPackages = with pkgs; [
         # Packages regarding Hyprland
