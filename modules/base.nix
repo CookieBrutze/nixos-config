@@ -62,6 +62,8 @@
         driSupport32Bit = true;
     };
 
+
+    # Video Drivers for amd
     services.xserver.videoDrivers = ["amdgpu"];
 
 
