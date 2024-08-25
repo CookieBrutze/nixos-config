@@ -51,6 +51,20 @@
     };
 
 
+    # Enable CUPS to print documents.
+    services.printing.enable = true;
+
+
+    # Enable OpenGL
+    hardware.opengl = {
+        enable = true;
+        driSupport = true;
+        driSupport32Bit = true;
+    };
+
+    services.xserver.videoDrivers = ["amdgpu"];
+
+
     # Core packages and config
     nixpkgs.config.allowUnfree = true;
     nix.settings.experimental-features = [ "nix-command" "flakes" ];
