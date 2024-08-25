@@ -75,6 +75,7 @@
         vim
         wget
         home-manager
+        appimage-run
     ];
 
 
