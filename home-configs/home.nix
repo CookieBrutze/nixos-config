@@ -3,6 +3,7 @@
 {
     imports = [
         ./modules/kitty.nix
+        ./modules/fish.nix
     ];
 
 
