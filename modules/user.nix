@@ -12,6 +12,7 @@
         discord
         modrinth-app
         kitty
+        gh
         ];
     };
 }
