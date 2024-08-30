@@ -74,6 +74,7 @@
     environment.systemPackages = with pkgs; [
         vim
         wget
+        home-manager
         appimage-run
     ];
 
