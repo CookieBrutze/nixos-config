@@ -10,6 +10,7 @@
         packages = with pkgs; [
         # User specific packages.
         discord
+        modrinth-app
         ];
     };
 }
