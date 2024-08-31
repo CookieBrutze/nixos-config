@@ -1,13 +1,13 @@
 { config, pkgs, ... }:
 
 {
-    # fish function (nixgens)
     home.file = {
         ".config/fish/functions/nixgens.fish".text = ''
             function nixgens
             sudo nix-env --list-generations --profile /nix/var/nix/profiles/system
             end
         '';
+
         ".config/fish/functions/nixos_setup.fish".text = ''
             function nixos_setup
             # Define paths for NixOS configuration
