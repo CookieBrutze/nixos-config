@@ -13,6 +13,7 @@
         modrinth-app
         kitty
         gh
+        spotify
         ];
     };
 }
