@@ -13,6 +13,7 @@
 
         # Modules
         source=~/.config/hypr/modules/monitor.conf
+        source=~/.config/hypr/modules/input.conf
         '';
 
 
