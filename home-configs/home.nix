@@ -4,6 +4,7 @@
     imports = [
         ./modules/kitty.nix
         ./modules/fish.nix
+        ./modules/wm/hyprland.nix
     ];
 
 
