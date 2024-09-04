@@ -14,6 +14,7 @@
         kitty
         gh
         spotify
+        vesktop
         ];
     };
 }
