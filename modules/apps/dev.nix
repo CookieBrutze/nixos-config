@@ -14,5 +14,6 @@
         godot_4
         vscode
         libresprite
+        logmein-hamachi
     ];
 }
