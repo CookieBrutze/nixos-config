@@ -14,7 +14,7 @@
         kitty
         gh
         spotify
-        vesktop
+        webcord
         ];
     };
 }
