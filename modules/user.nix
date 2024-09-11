@@ -15,6 +15,7 @@
         gh
         spotify
         webcord
+        minecraft-launcher
         ];
     };
 }
