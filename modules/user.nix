@@ -15,7 +15,7 @@
         gh
         spotify
         webcord
-        pkgs.minecraft
+        badlion-client
         ];
     };
 }
