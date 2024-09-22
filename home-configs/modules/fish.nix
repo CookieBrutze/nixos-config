@@ -11,8 +11,8 @@
         ".config/fish/functions/nixos_setup.fish".text = ''
             function nixos_setup
             # Define paths for NixOS configuration
-            set src_file /home/cookie/Documents/git/nixos-configs/configuration.nix
-            set src_dir /home/cookie/Documents/git/nixos-configs/modules
+            set src_file /home/cookie/Documents/code/git/nixos-configs/configuration.nix
+            set src_dir /home/cookie/Documents/code/git/nixos-configs/modules
             set dest_dir /etc/nixos
             set backup_dir /etc/nixos-backups/(date +"%Y%m%d%H%M%S")
 

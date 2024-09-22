@@ -15,6 +15,6 @@
         vscode
         libresprite
         logmein-hamachi
-        make
+        # make
     ];
 }
