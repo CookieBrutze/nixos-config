@@ -15,5 +15,6 @@
         ./modules/apps/fish.nix
         ./modules/apps/steam.nix
         ./modules/apps/gnome.nix
+        ./modules/apps/vm.nix
     ];
 }

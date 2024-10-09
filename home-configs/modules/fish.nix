@@ -17,9 +17,9 @@
             set backup_dir /etc/nixos-backups/(date +"%Y%m%d%H%M%S")
 
             # Define paths for Home Manager configuration
-            set home_src_file /home/cookie/Documents/git/nixos-configs/home-configs/home.nix
-            set flake_src_file /home/cookie/Documents/git/nixos-configs/home-configs/flake.nix
-            set home_src_dir /home/cookie/Documents/git/nixos-configs/home-configs/modules
+            set home_src_file /home/cookie/Documents/code/git/nixos-configs/home-configs/home.nix
+            set flake_src_file /home/cookie/Documents/code/git/nixos-configs/home-configs/flake.nix
+            set home_src_dir /home/cookie/Documents/code/git/nixos-configs/home-configs/modules
             set home_dest_dir /home/cookie/.config/home-manager
             set home_backup_dir /home/cookie/.config/home-manager-backups/(date +"%Y%m%d%H%M%S")
 

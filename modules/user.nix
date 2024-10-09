@@ -15,7 +15,7 @@
         gh
         spotify
         webcord
-        badlion-client
+        lutris
         ];
     };
 }
