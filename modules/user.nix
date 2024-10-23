@@ -16,6 +16,10 @@
         spotify
         webcord
         lutris
+        htop
+        ollama
+        gimp
+        obs-studio
         ];
     };
 }

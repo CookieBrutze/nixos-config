@@ -15,6 +15,7 @@
         vscode
         libresprite
         logmein-hamachi
+        electron
         # make
     ];
 }
